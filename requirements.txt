@@ -1,0 +1,6 @@
+fastapi
+pydantic
+motor
+passlib
+jose
+pymongo
